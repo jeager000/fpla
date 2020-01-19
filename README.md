@@ -4,7 +4,7 @@
 <h3>Installasi:</h3>
 <p>apt update && apt upgrade -y</p>
 <p>apt install python -y</p>
-<p>git clone</p>
+<p>git clone https://github.com/jeager000/fpla.git</p>
 <p>cd fpla</p>
 <p>pip install -r requirements.txt</p>
 <h3>Run:</h3>
